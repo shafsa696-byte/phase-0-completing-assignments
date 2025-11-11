@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+mkdir -p /home/shafsa/development/code/phase-0-completing-assignments
+cat > /home/shafsa/development/code/phase-0-completing-assignments/my_list.txt <<'EOF'
+Monstera Deliciosa
+Fiddle Leaf Fig
+Pilea
+Golden Pothos
+Peace Lily
+EOF
